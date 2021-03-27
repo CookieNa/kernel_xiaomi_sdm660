@@ -17,4 +17,4 @@
 * see branch ovlk-x-newcam/oldcam or <a href="https://github.com/Peppe289/xiaomi_kernel_sdm660_EAS">here</a> or <a href="https://github.com/crash-overlord/overlord-kernel-sdm660">here</a>
 
 The other branches are for my development. 
-If you need help write <a href="t.me/Peppe289">on telegram</a>
+If you need help write <a href="https://t.me/Peppe289">on telegram</a>
