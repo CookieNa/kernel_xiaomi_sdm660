@@ -4,11 +4,8 @@
 * HMP-newcam -> Stable release of Rave Kernel (newcam)
 * EAS-oldcam -> EAS base of Rave (oldcam)
 * EAS-newcam -> EAS base of Rave (newcam)
-* base -> only bringup
 * merge-caf -> from here I do pick for merge caf
 * upstream -> from here I do pick for upstream
-* tweak -> tweak from module, but side kernel
-* Xiaomeme -> Splitted drivers Xiaomi
 
 # My old repo
 <a href="https://github.com/Peppe289/old_base">here</a>
