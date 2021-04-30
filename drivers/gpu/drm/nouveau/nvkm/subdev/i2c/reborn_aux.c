@@ -21,7 +21,7 @@
  *
  * Authors: Ben Skeggs
  */
-#include "aux.h"
+#include "reborn_aux.h"
 #include "pad.h"
 
 static int
